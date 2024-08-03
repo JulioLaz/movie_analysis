@@ -1,5 +1,6 @@
 # Proyecto de Análisis de Películas
-
+## Ver presentación:
+https://juliolazarte.my.canva.site/movie-analysis
 ## Descripción General
 Este proyecto tiene como objetivo analizar datos de películas y series de televisión utilizando Python, centrándose en conjuntos de datos de IMDb y TMDb. El análisis incluye preprocesamiento de datos, análisis exploratorio de datos (EDA) y visualización de varios aspectos de la industria del entretenimiento.
 
