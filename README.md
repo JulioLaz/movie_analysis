@@ -257,4 +257,5 @@ Siéntete libre de hacer un fork de este proyecto y enviar pull requests con mej
 
 ## Licencia
 
-[Especifica aquí la licencia elegida]
+Copyright - 2024 - Julio Alberto Lazarte
+Todos los derechos reservados.
